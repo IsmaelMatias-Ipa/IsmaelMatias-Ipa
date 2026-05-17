@@ -1,6 +1,6 @@
 <!-- [IMAGEN DE BANNER RECOMENDADA: 1500x500px. Reemplaza el enlace de la imagen con la URL de tu banner personalizado] -->
 <div align="center">
-  <img src="https://via.placeholder.com/1500x400/000000/FFFFFF/?text=Banner+de+MarteDevs" alt="Banner Principal" />
+  <img src="img/bannerGitHub.png" alt="Banner Presentación" />
 </div>
 
 <h1 align="center">👋 ¡Hola! Soy IsmaelMatias-Ipa</h1>
